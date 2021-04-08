@@ -1,12 +1,12 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sharkevolution/requirements.git/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sharkevolution/temparser.git/HEAD)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-https://mybinder.org/v2/gh/sharkevolution/requirements.git/HEAD
+https://mybinder.org/v2/gh/sharkevolution/temparser.git/HEAD
 
 https://mybinder.org/
 
