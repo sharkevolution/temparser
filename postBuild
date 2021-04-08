@@ -1,0 +1,15 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
+
+# Add the fileupload module.
+jupyter nbextension install --user --py fileupload
+jupyter nbextension enable  --user --py fileupload
+
+# jupyter nbextension enable — py qgrid — sys-prefix
+jupyter nbextension enable — py widgetsnbextension — sys-prefix
+
+# jupyter nbextension enable --py --sys-prefix ipyleaflet
+
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+jupyter trust index.ipynb
